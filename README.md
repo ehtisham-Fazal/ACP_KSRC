@@ -1,5 +1,5 @@
 # ACP_SRC
-implementation of Sparse Representation classifier on Anticancer piptides
+implementation of Sparse Representation classifier on Anticancer piptides                                                 
 Data_set used for different models scraped from below given links
 1_for acp_344:
 a. https://raw.githubusercontent.com/Shujaat123/ACP_LSE/main/dataset_acp_JTB_2014/1-s2.0-S0022519313004190-mmc1.txt.
