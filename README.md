@@ -10,7 +10,7 @@ Data_set used for different models scraped from below given links
   
   2_for acp_740 and acp_240 :
   
-    a. https://raw.githubusercontent.com/haichengyi/ACP-DL/master/acp740.txt
+  a. https://raw.githubusercontent.com/haichengyi/ACP-DL/master/acp740.txt
   
   b. https://raw.githubusercontent.com/haichengyi/ACP-DL/master/acp240.txt
   
