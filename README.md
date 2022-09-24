@@ -10,7 +10,7 @@ Data_set used for different models scraped from below given links
   
   2_for acp_740 and acp_240 :
   
-  a. https://raw.githubusercontent.com/haichengyi/ACP-DL/master/acp740.txt
+    a. https://raw.githubusercontent.com/haichengyi/ACP-DL/master/acp740.txt
   
   b. https://raw.githubusercontent.com/haichengyi/ACP-DL/master/acp240.txt
   
@@ -35,7 +35,9 @@ Performance Results:
 
 
 we have implemented our SRC model on acp_740 data_set ,combine both acp_740 and acp_240 data set and then implement our SRC model and LSTM model from ACP_DApaper[1].
-we have also implemented our SRc model on ACP_344 data set and compare our result with ACP_DA paper[2]. Our model perfomance on both data_Set is better than paper model.
+we have also implemented our SRc model on ACP_344 data set and compare our result with ACP_DA paper[2]. Our model perfomance on both data_Set is better than papers model.
 
-Refrences
-1. 
+Refrences:
+
+1.https://www.frontiersin.org/articles/10.3389/fgene.2021.698477/full
+2.  https://www.frontiersin.org/articles/10.3389/fbioe.2020.00892/full
